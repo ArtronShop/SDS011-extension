@@ -11,7 +11,7 @@
             xml: `
                 <block type="sds011_read">
                     <field name="pin">32</field>
-                    <field name="type">1</field>
+                    <field name="type">0</field>
                 </block>
             `
         }
