@@ -1,5 +1,5 @@
 Blockly.Python['sds011_read'] = function(block) {
-  Blockly.Python.definitions_['import_tm1637'] = 'import sds011';
+  Blockly.Python.definitions_['import_sds011'] = 'import sds011';
 
   var dropdown_pin = block.getFieldValue('pin');
   var dropdown_type = block.getFieldValue('type');
